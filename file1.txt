@@ -1,0 +1,7 @@
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction. Particular applications of AI include expert systems, speech recognition, and machine vision.
+
+AI is a multidisciplinary field that includes computer science, psychology, neuroscience, cognitive science, linguistics, operations research, economics, and mathematics. AI research is divided into subfields that focus on specific problems, approaches, applications, and theoretical differences.
+
+The central problems of AI include such traits as reasoning, knowledge, planning, learning, communication, perception, and the ability to move and manipulate objects. General intelligence is among the field's long-term goals. Approaches include statistical methods, computational intelligence, and traditional symbolic AI. Many tools are used in AI, including versions of search and mathematical optimization, neural networks, and methods based on statistics, probability, and economics.
+
+The AI field draws upon computer science, information engineering, mathematics, psychology, linguistics, philosophy, and many other fields. The field was founded on the claim that human intelligence "can be so precisely described that a machine can be made to simulate it." This raises philosophical arguments about the nature of the mind and the ethics of creating artificial beings endowed with human-like intelligence, issues that have been explored by myth, fiction, and philosophy since antiquity.

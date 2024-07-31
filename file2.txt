@@ -1,0 +1,7 @@
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
+
+Recommendation engines are a common use case for machine learning. Other popular uses include fraud detection, spam filtering, malware threat detection, business process automation (BPA), and predictive maintenance.
+
+Machine learning is important because it gives enterprises a view of trends in customer behavior and operational business patterns, as well as supports the development of new products. Many of today’s leading companies, such as Facebook, Google, and Uber, make machine learning a central part of their operations. Machine learning has become a significant competitive differentiator for many companies.
+
+Like artificial intelligence, machine learning includes a variety of subtopics such as supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning. Each type of machine learning algorithm differs in how they work and what kind of data they require.
